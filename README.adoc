@@ -3,6 +3,9 @@ ifndef::env-site[:status:]
 
 An http://asciimath.org[AsciiMath] parser and MathML generator written in pure Ruby.
 
+This fork exists to implement an Asciimath -> LaTeX module, to open up LaTeX-based backends to
+.adoc files using AsciiMath.
+
 ifdef::status[]
 [discrete]
 ## Status
